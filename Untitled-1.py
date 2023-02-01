@@ -1,3 +1,5 @@
+#name- rudraksh taneja
+#roll number-e22bcau0014
 class Shape:
     def init(self, color):
         self.color = color
